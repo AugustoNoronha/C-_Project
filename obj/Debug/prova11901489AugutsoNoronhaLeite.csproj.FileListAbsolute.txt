@@ -1,0 +1,2 @@
+C:\Users\gutin\source\repos\prova11901489AugutsoNoronhaLeite\obj\Debug\prova11901489AugutsoNoronhaLeite.csprojAssemblyReference.cache
+C:\Users\gutin\source\repos\prova11901489AugutsoNoronhaLeite\obj\Debug\prova11901489AugutsoNoronhaLeite.csproj.CoreCompileInputs.cache
